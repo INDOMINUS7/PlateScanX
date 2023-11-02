@@ -19,6 +19,10 @@ Real time detection and text extraction:
 
 Saved Number Plate Data:
 Real time:
+
 ![image](https://github.com/INDOMINUS7/PlateScanX/assets/96134720/3a23a259-1522-4604-b8a5-a083cf05f937)
+
 From images:
+
+
 ![image](https://github.com/INDOMINUS7/PlateScanX/assets/96134720/9e2893ca-c150-435d-ae5d-6536bf2e12ab)
